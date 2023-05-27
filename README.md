@@ -26,13 +26,6 @@ To get started, clone this repository to your machine:
 git clone https://github.com/saharblue/ML_Bayesian_Learning.git
 ```
 
-Next, navigate to the project directory and install the necessary dependencies:
-
-```
-cd ML_Bayesian_Learning
-pip install -r requirements.txt
-```
-
 ## Usage
 
 1. **Load your dataset:** This implementation uses CSV files in the 'data' directory as examples of datasets. You can replace these files with your own CSV data. Make sure that your CSV files are in the correct format and placed in the 'data' directory.
